@@ -1,0 +1,27 @@
+{
+  "name": "bookmyshow-rating-interest-fetcher",
+  "version": "1.0.0",
+  "description": "A Node.js and Puppeteer web application for fetching movie ratings and interest counts from BookMyShow.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bookmyshow",
+    "movies",
+    "movie-rating",
+    "interest-count",
+    "web-scraping",
+    "web-automation",
+    "puppeteer",
+    "express",
+    "nodejs"
+  ],
+  "author": "Yashwanth R",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^24.0.0"
+  }
+}
