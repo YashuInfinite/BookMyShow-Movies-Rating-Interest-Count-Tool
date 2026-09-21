@@ -1,7 +1,4 @@
 # BookMyShow-Movies-Rating-Interest-Count-Tool
-.
-# 🎬 BookMyShow Movies Rating & Interest Count Fetcher
-
 <p align="center">
 
 A simple and interactive Node.js web application that fetches  
