@@ -1,6 +1,16 @@
 # BookMyShow-Movies-Rating-Interest-Count-Tool
 <p align="center">
 
+# 🎬 Bms Ratings
+<div align="center">
+  <img src="https://github.com/YashuInfinite/IMDb-Movies-TV-Shows-Rating-Finder-Tool/blob/main/output.png?raw=true" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
+</div>
+
+# 🎬 Bms Interest
+<div align="center">
+  <img src="https://github.com/YashuInfinite/IMDb-Movies-TV-Shows-Rating-Finder-Tool/blob/main/output.png?raw=true" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
+</div>
+
 A simple and interactive Node.js web application that fetches  
 🎬 <b>Movie Ratings</b> and ❤️ <b>Interest Counts</b> from BookMyShow.
 
