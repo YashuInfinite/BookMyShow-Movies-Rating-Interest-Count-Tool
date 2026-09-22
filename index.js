@@ -268,7 +268,7 @@ app.get('/', (req, res) => {
         <form action="/search" method="get">
           <div class="input-group">
             <i class="fas fa-search"></i>
-            <input type="text" id="query" name="query" value="${movieQuery}" placeholder="Enter Movie Name">
+            <input type="text" id="query" name="query" value="${movieQuery}" placeholder="Moon Light OR Moon Light 2017">
           </div>
           
           <div class="input-group">
@@ -391,6 +391,3 @@ if (type === 'rating') {
 app.listen(port, () => {
   console.log(`✅ Server running at http://localhost:${port}`);
 });
-
-
-
