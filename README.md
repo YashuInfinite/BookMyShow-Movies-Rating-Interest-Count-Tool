@@ -3,7 +3,7 @@
 
 # 🎬 Bms Ratings
 <div align="center">
-  <img src="https://github.com/YashuInfinite/IMDb-Movies-TV-Shows-Rating-Finder-Tool/blob/main/output.png?raw=true" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
+  <img src="https://github.com/YashuInfinite/BookMyShow-Movies-Rating-Interest-Count-Tool/blob/main/ratings.png?raw=true" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
 </div>
 
 # 🎬 Bms Interest
